@@ -1,0 +1,29 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "site com opçao de agendamento",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacDSC/Site-com-Agendamento.git"
+  },
+  "keywords": [
+    "site",
+    "com",
+    "agendamento"
+  ],
+  "author": "IsaacDSC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacDSC/Site-com-Agendamento/issues"
+  },
+  "homepage": "https://github.com/IsaacDSC/Site-com-Agendamento#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  }
+}
